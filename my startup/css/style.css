@@ -1,0 +1,47 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap" rel="stylesheet">');
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+	background-color: white;
+	color: #B7E0FF;
+	 font-family: 'Merriweather', serif;
+	font-size: 15px;
+
+}
+
+h1, h2, h3 { 
+	font-family: 'Montserrat', sans-serif;
+	font-weight : bold;
+	margin: 10px;
+}
+
+h1 {
+	color: #B7E0FF;
+	font-size: 60px;
+	font-weight: 700;
+	letter-spacing: 5px;
+}
+
+h2 {
+	color: #B7E0FF;
+	font-size: 20px;
+	font-weight: 	400px;
+	font-weight: bold;
+}
+
+
+a {
+	font-family: 'Merriweather', serif;
+	text-decoration: none;
+	color: #B7E0FF;
+	font-weight: 500;
+	font-size: 15px;
+}
+ç!l
+a:hover {
+	color: #FFCFB3;
+}

@@ -1,0 +1,18 @@
+.banner {
+	background-image: linear-gradient(100deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0) 50%), url(https://sevetys.fr/_next/image/?url=https%3A%2F%2Fcharming-angel-5ca83bf286.media.strapiapp.com%2FPrenoms_de_chiens_2024_5b7df84c88.webp&w=3840&q=75);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+.banner h1 {
+	font-size: 40px;
+	color: white;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: bolder;
+	opacity: 0.8;
+	margin-bottom: 30px;
+
+}
